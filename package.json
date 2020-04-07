@@ -1,0 +1,15 @@
+{
+  "name": "cropsprite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "images": "^3.0.2",
+    "strip-json-comments": "^3.0.1"
+  },
+  "author": "minh8023",
+  "license": "ISC"
+}
